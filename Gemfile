@@ -4,7 +4,7 @@ gem 'rails', '3.2.1'
 gem 'pg', '0.12.2'
 
 group :development do
-  gem 'sqlite3', '1.3.5'
+  #gem 'sqlite3', '1.3.5'
   
   gem 'rspec-rails', '2.8.1'
   gem 'guard-rspec', '0.5.5'
